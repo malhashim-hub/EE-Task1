@@ -1,5 +1,5 @@
 # EE-Task1
 Coop in Smart Method Electronic Engineering Track. 
 Design and implementation of LED lights in robots
-![Magnificent Amur-Uusam](https://github.com/malhashim-hub/EE-Task1/assets/119134365/f22217ff-3899-4af0-90de-aec7b39fa509)
-https://www.tinkercad.com/things/iC2IMHj4wD8-magnificent-amur-uusam/editel?tenant=circuits
+![Task_1 smiley face](https://github.com/malhashim-hub/EE-Task1/assets/119134365/e6253b4f-ce97-4c8a-8f11-c5ca0019aa43)
+https://www.tinkercad.com/things/lD4G4iTBtDK-copy-of-5x5-led-matrix/editel?tenant=circuits
